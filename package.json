@@ -1,0 +1,17 @@
+{
+  "name": "elementor-widget-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleh-polishchuk/elementor-widget-generator-cli.git"
+  },
+  "author": "oleh.polishchuk.ck@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleh-polishchuk/elementor-widget-generator-cli/issues"
+  },
+  "homepage": "https://github.com/oleh-polishchuk/elementor-widget-generator-cli#readme"
+}
